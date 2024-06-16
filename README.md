@@ -7,6 +7,6 @@ To develop a comprehensive weekly dashboard that delivers real-time insights int
 
 # Dashboards
 
-https://github.com/Pranav-S-Bhoge/Credit_Card_Data_Analysis/blob/main/CC_Transaction%20Dashboard.pdf
+![Dashboard](https://github.com/Pranav-S-Bhoge/Credit_Card_Data_Analysis/blob/main/CC_Transaction%20Dashboard.pdf).
 
 https://github.com/Pranav-S-Bhoge/Credit_Card_Data_Analysis/blob/main/CC_Customer%20Dashboard.pdf
